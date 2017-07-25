@@ -3,7 +3,7 @@ A visualized solution to the well-known problem : <blockquote>"How many ways the
 <br>
 <h3>I used the following :</h3>
 <ul>
-  <ul>JavaScript<li>P5.js Library</li></ul>
+  <li>JavaScript<ul><li>P5.js Library</li></ul></il>
   <li>Backtracking Algorithm</li>
 </ul>
-You can find a running version <a href="https://youssefali11997.github.io/Grid-Walker/index.html">here</a>
+<p>You can find a running version <a href="https://youssefali11997.github.io/Grid-Walker/index.html">here</a></p>
