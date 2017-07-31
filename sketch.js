@@ -1,6 +1,6 @@
 var n, grid = [], waysArr = [], tmp = [], ways = 0, idx = 0;
 function setup() {
-	createCanvas(600,800);
+	createCanvas(2000,800);
 	frameRate(5);
 	n = width / 100;
 	for(var i = 0; i < n; i++){
